@@ -7,4 +7,3 @@ node_modules/
 .swc
 
 .idea/
-yarn.lock
